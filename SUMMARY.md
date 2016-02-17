@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* MAC - El Capitan
+* [MAC - El Capitan](mac_-_el_capitan.md)
 
