@@ -5,3 +5,4 @@ Most of the Software Development Companies in the USA gives a Laptop to its deve
 
 Thus One gets a Laptop with administrative privileges just for Programming. It is essential to setup the System within a working day so that the Project can be resumed soon. Apart from installing Project specific tools (which could be Eclipse for J2EE or Android Studio) there are many system related tools which make the life of a developer easier.
 
+ad
