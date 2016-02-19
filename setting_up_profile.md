@@ -14,5 +14,9 @@ Go to your home (~) directory
 
 `touch .bashrc`
 
+If you know working with VI editor, edit these files with the following content. Otherwise you can use your favorite Text editor like Sublime, Atom etc.
+
+
+
 
 
