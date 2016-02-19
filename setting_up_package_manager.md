@@ -1,5 +1,7 @@
 # Setting up package Manager
 
+### Requirements 
+A Bourne-compatible shell for installation (e.g. bash or zsh) 
 ###Install HomeBrew package manager.
 * Will help in installing most of the developer tools
 
