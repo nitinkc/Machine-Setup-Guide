@@ -6,6 +6,6 @@ Thus One gets a Laptop with administrative privileges just for Programming. It i
 
 Also, once the computer is setup, you can speed up the installation process the next time you join a project.
 
-The Major Challenge for me was to set up a Linux based machine, which appear difficult in the beginning. But it was because of the lack of a proper resource that can give the proper resource.
+The Major Challenge for me was to set up a Linux based machine, which appear difficult in the beginning. But it was because of the lack of a proper resource that can give the proper resource.I am putting all the resources together to make the system working with a day. 
 
 Windows OS comes pre-installed with all Major Laptop Vendors. Most of the people are familiar with using the System. Thus for Windows only Advanced Topics will be covered.
