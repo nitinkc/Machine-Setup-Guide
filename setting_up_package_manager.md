@@ -8,7 +8,7 @@ A Bourne-compatible shell for installation (e.g. bash or zsh)
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` 
 
-more information at [Brew Official Site]
+More information at [Brew Official Site]
 
 A new Mac comes pre-installed with ruby, thus the above command will execute. 
 
