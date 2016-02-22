@@ -9,4 +9,5 @@
        * [VIM](vim.md)
        * [Atom](atom.md)
 * [Windows 10](windows_10.md)
+* Fedora 21
 
