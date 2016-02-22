@@ -6,5 +6,6 @@
    * [Setting up package manager](setting_up_package_manager.md)
    * [Text Editors](text_editors.md)
        * [Sublime](sublime.md)
+       * VIM
 * [Windows 10](windows_10.md)
 
