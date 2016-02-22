@@ -5,6 +5,6 @@
    * [Setting Up .profile](setting_up_profile.md)
    * [Setting up package manager](setting_up_package_manager.md)
    * [Text Editors](text_editors.md)
-       * Sublime
+       * [Sublime](sublime.md)
 * [Windows 10](windows_10.md)
 
