@@ -7,6 +7,6 @@
    * [Text Editors](text_editors.md)
        * [Sublime](sublime.md)
        * [VIM](vim.md)
-       * Atom
+       * [Atom](atom.md)
 * [Windows 10](windows_10.md)
 
