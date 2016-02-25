@@ -11,6 +11,7 @@
        * [Atom](atom.md)
    * [Mind Maps Utility](mind_maps_utility.md)
    * [Necessasary UI Settings](necessasary_ui_settings.md)
+   * Setting up .git
 * [Windows 10](windows_10.md)
 * [Fedora 21](fedora_21.md)
 
