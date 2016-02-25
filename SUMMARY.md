@@ -8,6 +8,7 @@
        * [Sublime](sublime.md)
        * [VIM](vim.md)
        * [Atom](atom.md)
+   * Mind Maps Utility
 * [Windows 10](windows_10.md)
 * [Fedora 21](fedora_21.md)
 
