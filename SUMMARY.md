@@ -12,5 +12,4 @@
    * [Mind Maps Utility](mind_maps_utility.md)
 * [Windows 10](windows_10.md)
 * [Fedora 21](fedora_21.md)
-* [mdTags](mdtags.md)
 
