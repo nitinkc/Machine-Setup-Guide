@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Important Softwares](important_softwares.md)
 * [MAC - El Capitan](mac_-_el_capitan.md)
-   * Setting up .git
+   * [Setting up .git](setting_up_git.md)
    * [Setting Up .profile](setting_up_profile.md)
    * [Setting up package manager](setting_up_package_manager.md)
    * [Text Editors](text_editors.md)
