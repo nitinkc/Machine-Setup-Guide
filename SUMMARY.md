@@ -10,7 +10,7 @@
        * [VIM](vim.md)
        * [Atom](atom.md)
    * [Mind Maps Utility](mind_maps_utility.md)
-   * Necessasary UI Settings
+   * [Necessasary UI Settings](necessasary_ui_settings.md)
 * [Windows 10](windows_10.md)
 * [Fedora 21](fedora_21.md)
 
