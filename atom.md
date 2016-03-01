@@ -22,6 +22,9 @@ To install a package go to the install tab. There are two options
 ### Theme of choice
 
 
+### Shortcuts
+
+
 
    
 
