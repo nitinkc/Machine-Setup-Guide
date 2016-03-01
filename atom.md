@@ -4,6 +4,9 @@ Atom Code Editor is from GitHub Community. An open source software.
 
 ###Top 5 features of Atom
 
+1. Multi-line Cursor (Command + Click)
+
+
 
 The extensions on Atom is called package and is accessed through the Package library. 
 - Go to File --> Settings
