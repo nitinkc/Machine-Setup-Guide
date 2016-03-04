@@ -12,6 +12,7 @@
    * [Setting up package manager](setting_up_package_manager.md)
    * [Mind Maps Utility](mind_maps_utility.md)
    * [Necessasary UI Settings](necessasary_ui_settings.md)
+   * Terminal Productivity - iTerm-2
 * [Windows 10](windows_10.md)
 * [Fedora 21](fedora_21.md)
 * [CheatSheet](cheatsheet.md)
