@@ -19,6 +19,6 @@
 * [Ubuntu Server Installation](ubuntu_server_installation.md)
    * [port forwardng](port_forwardng.md)
    * [ssh-enabled](ssh-enabled.md)
-   * DDNS
+   * [DDNS](ddns.md)
 * [Own Website](own_website.md)
 
