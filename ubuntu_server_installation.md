@@ -10,7 +10,7 @@ After installation (pretty intuitive installer), if you like you can install the
 
 restart using cntl+alt+delete from command line mode.
 
-check the ip address to be given to the students
+check the ip address to be given to the students (ifconfig)
 
 Login to the server from its network (synergy is the user name)
 `ssh synergy@10.1.10.229`
