@@ -18,3 +18,6 @@ Login to the server from its network (synergy is the user name)
 To copy a file from the Desktop of the Server to the current working directory (.) of the host machine, issue the following command
 `scp synergy@10.1.10.229:~/Desktop/nitin.txt .`
 
+Open port 80 (TCP port in the Router) and install a webserver and set a project there.
+Access it remotely via 
+
