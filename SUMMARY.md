@@ -21,5 +21,5 @@
    * [DDNS](ddns.md)
 * [Own Website](own_website.md)
 * [CheatSheet](cheatsheet.md)
-* Rocks Cluster installaton
+* [Rocks Cluster installaton](rocks_cluster_installaton.md)
 
