@@ -2,6 +2,5 @@
 
 # Setup Sublime
 
-
 ## Sublime plugins
 
