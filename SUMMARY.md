@@ -19,7 +19,7 @@
    * [port forwardng](port_forwardng.md)
    * [ssh-enabled](ssh-enabled.md)
    * [DDNS](ddns.md)
-   * Publish Website
+   * [Publish Website](publish_website.md)
 * [Own Website](own_website.md)
 * [CheatSheet](cheatsheet.md)
 * [Rocks Cluster installaton](rocks_cluster_installaton.md)
